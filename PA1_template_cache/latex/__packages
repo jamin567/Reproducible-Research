@@ -1,0 +1,9 @@
+base
+ggplot2
+lubridate
+dplyr
+lattice
+car
+mosaicData
+mosaic
+caret
